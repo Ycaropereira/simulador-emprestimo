@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://simulador-emprestimo.vercel.app/sitemap.xml",
+    sitemap: "https://simulador-emprestimo-phi.vercel.app/sitemap.xml",
   };
 }

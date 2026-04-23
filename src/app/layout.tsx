@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://simulador-emprestimo.vercel.app"),
+  metadataBase: new URL("https://simulador-emprestimo-phi.vercel.app"),
   title: "Simulador de Empréstimo",
   description:
     "Simulador de empréstimo com parcelas fixas: calcule parcela, total pago e juros, e visualize a evolução do saldo devedor.",
