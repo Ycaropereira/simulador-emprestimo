@@ -10,9 +10,9 @@ export default function ContatoPage() {
       <p className="mt-3">
         <a
           className="font-semibold text-sky-700 hover:underline"
-          href="mailto:contato@exemplo.com"
+          href="mailto:suportcalculo@gmail.com"
         >
-          contato@exemplo.com
+          suportcalculo@gmail.com
         </a>
       </p>
 
